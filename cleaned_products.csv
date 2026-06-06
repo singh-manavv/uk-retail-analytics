@@ -1,0 +1,77 @@
+product_id,product_name,category,unit_price,gross_margin,in_stock
+PROD0001,Wireless Headphones,Electronics,239.61,0.28,True
+PROD0002,Smart Watch,Electronics,163.41,0.28,True
+PROD0003,Laptop Stand,Electronics,257.72,0.28,False
+PROD0004,USB Hub,Electronics,362.76,0.28,True
+PROD0005,Bluetooth Speaker,Electronics,151.9,0.28,True
+PROD0006,Portable Charger,Electronics,151.9,0.28,True
+PROD0007,Webcam HD,Electronics,369.51,0.28,True
+PROD0008,Mechanical Keyboard,Electronics,272.09,0.28,True
+PROD0009,Gaming Mouse,Electronics,123.66,0.28,True
+PROD0010,Smart Home Plug,Electronics,245.11,0.28,True
+PROD0011,Winter Jacket,Clothing & Apparel,38.78,0.45,True
+PROD0012,Running Trainers,Clothing & Apparel,38.7,0.45,True
+PROD0013,Formal Shirt,Clothing & Apparel,63.47,0.45,True
+PROD0014,Casual Jeans,Clothing & Apparel,1.99,0.45,True
+PROD0015,Summer Dress,Clothing & Apparel,1.99,0.45,False
+PROD0016,Wool Jumper,Clothing & Apparel,35.32,0.45,True
+PROD0017,Sports Leggings,Clothing & Apparel,19.55,0.45,True
+PROD0018,Leather Boots,Clothing & Apparel,66.0,0.45,True
+PROD0019,Puffer Vest,Clothing & Apparel,23.22,0.45,True
+PROD0020,Hoodie,Clothing & Apparel,5.57,0.45,True
+PROD0021,Air Purifier,Home & Garden,148.28,0.35,True
+PROD0022,Scented Candles Set,Home & Garden,63.71,0.35,True
+PROD0023,Storage Baskets,Home & Garden,78.38,0.35,True
+PROD0024,Plant Pots Set,Home & Garden,3.76,0.35,True
+PROD0025,Kitchen Organiser,Home & Garden,47.78,0.35,True
+PROD0026,Weighted Blanket,Home & Garden,80.55,0.35,True
+PROD0027,Desk Lamp LED,Home & Garden,17.45,0.35,False
+PROD0028,Coffee Maker,Home & Garden,93.78,0.35,True
+PROD0029,Non-stick Pan,Home & Garden,44.97,0.35,True
+PROD0030,Cushion Set,Home & Garden,60.42,0.35,True
+PROD0031,Vitamin D Supplements,Beauty & Health,17.17,0.52,True
+PROD0032,Face Moisturiser SPF,Beauty & Health,61.34,0.52,True
+PROD0033,Shampoo Set,Beauty & Health,27.76,0.52,True
+PROD0034,Electric Toothbrush,Beauty & Health,8.96,0.52,True
+PROD0035,Perfume Gift Set,Beauty & Health,42.81,0.52,True
+PROD0036,Yoga Mat,Beauty & Health,6.02,0.52,True
+PROD0037,Protein Powder,Beauty & Health,31.76,0.52,True
+PROD0038,Eye Cream,Beauty & Health,1.99,0.52,False
+PROD0039,Lip Balm Set,Beauty & Health,4.09,0.52,True
+PROD0040,Hand Sanitiser,Beauty & Health,31.54,0.52,True
+PROD0041,Resistance Bands,Sports & Outdoors,98.23,0.38,True
+PROD0042,Water Bottle Insulated,Sports & Outdoors,72.71,0.38,True
+PROD0043,Running Belt,Sports & Outdoors,59.8,0.38,True
+PROD0044,Cycling Gloves,Sports & Outdoors,51.45,0.38,True
+PROD0045,Foam Roller,Sports & Outdoors,1.99,0.38,True
+PROD0046,Jump Rope,Sports & Outdoors,32.61,0.38,True
+PROD0047,Tennis Racket,Sports & Outdoors,44.27,0.38,True
+PROD0048,Football,Sports & Outdoors,112.57,0.38,True
+PROD0049,Swim Goggles,Sports & Outdoors,80.46,0.38,True
+PROD0050,Hiking Backpack,Sports & Outdoors,1.99,0.38,True
+PROD0051,Organic Coffee Beans,Food & Grocery,21.89,0.22,True
+PROD0052,Protein Bars 12pk,Food & Grocery,13.38,0.22,True
+PROD0053,Green Tea Bags,Food & Grocery,9.88,0.22,True
+PROD0054,Olive Oil Extra Virgin,Food & Grocery,25.34,0.22,True
+PROD0055,Granola Mix,Food & Grocery,30.37,0.22,True
+PROD0056,Dark Chocolate Box,Food & Grocery,29.18,0.22,True
+PROD0057,Herbal Tea Set,Food & Grocery,7.93,0.22,True
+PROD0058,Honey Raw,Food & Grocery,14.29,0.22,True
+PROD0059,Oat Milk 6pk,Food & Grocery,21.98,0.22,True
+PROD0060,Nuts & Seeds Mix,Food & Grocery,29.71,0.22,True
+PROD0061,Data Analytics Handbook,Books & Stationery,10.21,0.4,True
+PROD0062,Business Strategy Guide,Books & Stationery,13.14,0.4,True
+PROD0063,Python Programming Book,Books & Stationery,3.94,0.4,True
+PROD0064,Notebook Premium A5,Books & Stationery,3.04,0.4,True
+PROD0065,Planner 2024,Books & Stationery,23.13,0.4,True
+PROD0066,Highlighters Set,Books & Stationery,28.56,0.4,True
+PROD0067,Pen Set Luxury,Books & Stationery,14.28,0.4,True
+PROD0068,Sticky Notes Bulk,Books & Stationery,25.04,0.4,True
+PROD0069,Board Game Family,Toys & Games,44.04,0.42,True
+PROD0070,Lego Classic Set,Toys & Games,18.87,0.42,True
+PROD0071,Puzzle 1000pc,Toys & Games,44.03,0.42,True
+PROD0072,Card Game Strategy,Toys & Games,73.45,0.42,True
+PROD0073,Action Figure Set,Toys & Games,34.1,0.42,True
+PROD0074,Art Supplies Kit,Toys & Games,74.12,0.42,True
+PROD0075,Remote Control Car,Toys & Games,1.99,0.42,True
+PROD0076,Building Blocks,Toys & Games,55.55,0.42,True

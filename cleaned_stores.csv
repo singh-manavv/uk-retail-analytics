@@ -1,0 +1,21 @@
+store_id,store_name,region,store_type,staff_count,opened_year
+ST001,Oxford Street Central,London,Flagship,61,2014
+ST002,Canary Wharf,London,Flagship,63,2018
+ST003,Westfield Stratford,London,Standard,64,2011
+ST004,Manchester Piccadilly,North West,Flagship,19,2013
+ST005,Birmingham Bullring,West Midlands,Flagship,33,2015
+ST006,Leeds City Centre,Yorkshire,Express,25,2020
+ST007,Edinburgh Princes St,Scotland,Express,42,2012
+ST008,Bristol Cabot Circus,South West,Standard,12,2019
+ST009,Cardiff Bay,Wales,Flagship,59,2009
+ST010,Liverpool One,North West,Express,70,2017
+ST011,Sheffield Meadowhall,Yorkshire,Standard,41,2020
+ST012,Newcastle Eldon Sq,North East,Express,47,2018
+ST013,Nottingham Victoria,East Midlands,Flagship,48,2017
+ST014,Leicester High Street,East Midlands,Standard,23,2012
+ST015,Southampton West Quay,South East,Flagship,10,2017
+ST016,Brighton Churchill Sq,South East,Standard,58,2006
+ST017,Reading Oracle,South East,Express,27,2020
+ST018,Milton Keynes MK1,East of England,Flagship,46,2015
+ST019,Guildford High Street,South East,Flagship,33,2016
+ST020,Cambridge Grand Arcade,East of England,Standard,8,2006
