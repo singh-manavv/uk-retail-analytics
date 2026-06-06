@@ -46,7 +46,27 @@ uk-retail-analytics/
 ```
 
 ---
+# UK Retail Analytics – Power BI Dashboard
 
+## Overview
+Three-year retail analysis across 8,000 customers, 
+60,000 transactions, 20 stores, 11 UK regions.
+
+## Dashboard Pages
+
+### Main – Revenue Overview
+![Main](assets/page1-main.png)
+
+### Customer Segmentation
+![Segmentation](assets/page2-segmentation.png)
+
+### Loyalty Programme Analysis
+![Loyalty](assets/page3-loyalty.png)
+
+### Regional & Channel Performance
+![Regional](assets/page4-regional.png)
+
+---
 ## Key Findings
 
 ### Revenue
